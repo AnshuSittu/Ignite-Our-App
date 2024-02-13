@@ -1,0 +1,22 @@
+{
+  "name": "ignite-our-app",
+  "version": "1.0.0",
+  "description": "This is Namste React Episode Two",
+  "main": "app.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshuSittu/Ignite-Our-App.git"
+  },
+  "author": "Anshu Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnshuSittu/Ignite-Our-App/issues"
+  },
+  "homepage": "https://github.com/AnshuSittu/Ignite-Our-App#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
