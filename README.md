@@ -4,7 +4,7 @@
 # Parcel
 - Dev Build
 - Local Server
-- HMR = Hot Module Replacement
+- HMR = Hot Module Replacement i.e refreshing the page
 - File Watching Algorithm - written in C++
 - Caching - Faster Builds
 - Image Optimization
